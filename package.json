@@ -1,0 +1,15 @@
+{
+  "name": "blue-contrast-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Adds more colours and emphasis on blue",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/blue-contrast-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
